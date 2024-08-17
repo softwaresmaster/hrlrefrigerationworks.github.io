@@ -5,7 +5,12 @@
   --light: #f6f7f8;
   --dark: #010935;
 }
-
+.bg-primary1{
+  background-color: #0fefff !important;
+}
+.bg-primary2 {
+  color: #0fefff !important;
+}
 .float {
   position: fixed;
   width: 60px;
